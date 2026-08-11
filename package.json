@@ -1,0 +1,13 @@
+{
+  "name": "speedtest-compact-card",
+  "version": "1.0.0",
+  "private": true,
+  "type": "module",
+  "description": "Compact Home Assistant card for internet speed sensors",
+  "scripts": {
+    "test": "node --test tests/*.test.js"
+  },
+  "devDependencies": {
+    "happy-dom": "^15.11.7"
+  }
+}
